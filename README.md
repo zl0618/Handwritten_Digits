@@ -1,2 +1,2 @@
 # Handwritten_Digits
-An introductory Convolutional Neural Network (CNN) model 
+An introductory feed-forward neural network model
